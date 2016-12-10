@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/email"
+	"github.com/jordan-wright/email"
 )
 
 type Sender struct {
