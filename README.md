@@ -15,3 +15,6 @@ schedule email sender
 - `./schedule-mail-macos --from 'someone <someone@gmail.com>' --to someone@gmail.com --cc someone@gmail.com --bcc someone@gmail.com --subject 'test' --content '<h1>Fancy Html is supported, too!</h1>' --smtpHost smtp.gmail.com --smtpPort 587 --username someone@gmail.com --password yourpwd --schedule "2016 12 10 17 * 00"`
 - or `./schedule-mail-linux --from 'someone <someone@gmail.com>' --to someone@gmail.com --cc someone@gmail.com --bcc someone@gmail.com --subject 'test' --content '<h1>Fancy Html is supported, too!</h1>' --smtpHost smtp.gmail.com --smtpPort 587 --username someone@gmail.com --password yourpwd --schedule "2016 12 10 17 * 00"`
 - have fun
+
+## License
+MIT
