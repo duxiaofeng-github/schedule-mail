@@ -1,5 +1,5 @@
 # schedule-mail
-schedule email sender
+scheduled email sender
 
 ## Dependence
 - Go v1.5 or above
